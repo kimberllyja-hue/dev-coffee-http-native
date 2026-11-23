@@ -3,7 +3,7 @@
 API RESTful em memória para gerenciar a fila de pedidos da cafeteria **Dev Coffee**, construída exclusivamente com módulos nativos do **Node.js** (sem dependências externas).
 
 ## Autor
-- **Nome:** [Seu Nome Completo]
+- **Nome:** Kimberlly de Jesus Alves
 
 ## Como executar
 
